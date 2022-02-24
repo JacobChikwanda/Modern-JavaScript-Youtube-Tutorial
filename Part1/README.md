@@ -4,7 +4,8 @@
 1. User should be able to **login** and **logout**.
 
 2. User should be able to **see all items** we have in our shop.
-    i. For simplicity sake we will only have three products and three items in each our shop:
+   
+   For simplicity sake we will only have three products and three items in each our shop:
         1. **fruits**: apples, oranges and grapes
         2. **cars**: BMW's, Volvo's and land cruiser's
         3. **utensils**: spoons, forks and knives
