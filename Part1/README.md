@@ -6,9 +6,9 @@
 2. User should be able to **see all items** we have in our shop.
    
    For simplicity sake we will only have three products and three items in each our shop:
-        1. **fruits**: apples, oranges and grapes
-        2. **cars**: BMW's, Volvo's and land cruiser's
-        3. **utensils**: spoons, forks and knives
+   1. **fruits**: apples, oranges and grapes
+   2. **cars**: BMW's, Volvo's and land cruiser's
+   3. **utensils**: spoons, forks and knives
 
 3. User should be able to **add**/**remove** an item **to**/**from** shopping cart.
 
